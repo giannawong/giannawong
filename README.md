@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gianna Wong (@giannawong)!
+- 👋 Hi, I’m Gianna W. (@giannawong)!
 - 👀 I’m interested in ???
 - 🌱 I’m not currently learning any languages. I hope to learn more than just Python, though...
 - 💞️ I’m looking to collaborate on ???
